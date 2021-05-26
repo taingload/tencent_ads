@@ -133,3 +133,4 @@ checkpoints/
 pretrained/
 results/
 .out
+nohup.out
